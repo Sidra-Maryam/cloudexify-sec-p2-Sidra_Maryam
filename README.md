@@ -12,7 +12,7 @@ Password authentication system and encryption examples built in Python for Cloud
 ```bash
 pip install bcrypt cryptography
 python secure_auth.py
-python encryption_examples.py
+python Encryption_examples.py
 ```
 
 ## Notes
